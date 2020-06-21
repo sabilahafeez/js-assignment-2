@@ -68,7 +68,7 @@
  //var message = "Ali and Sami are best friends They play cricket and football together.";
  //document.write(message + "<br>");
 
- //message = message.replace("and", "&");
+ //message = message.replace(/and/g, "&");
  //document.write(message);
 
 
